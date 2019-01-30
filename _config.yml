@@ -1,14 +1,14 @@
 title:             Syahrul Fadli
-email:             your-email@example.com
-description:       A Blog Theme by Start Bootstrap
+email:             syahrul2019@gmail.com
+description:       Personal Blog
 author:            Syahrul
-baseurl:           "/startbootstrap-clean-blog-jekyll"
+baseurl:           "/"
 url:               "https://kamvretterbang.github.io"
 
 # Social Profiles
-twitter_username:  SBootstrap
-github_username:   BlackrockDigital
-facebook_username: StartBootstrap
+twitter_username:  syahrul110100
+github_username:   kamvretterbang
+facebook_username: syahrul.fadly.52
 
 # Build settings
 markdown:          kramdown
