@@ -1,8 +1,8 @@
-gtitle:             Clean Blog
+gtitle:            Syahrul Fadli
 email:             syahrulfadli2019@gmail.com
 description:       A Blog Theme by Start Bootstrap
 author:            Start Bootstrap
-baseurl:           "/startbootstrap-clean-blog-jekyll"
+baseurl:           "/"
 url:               "https://kamvretterbang.github.io"
 
 # Social Profiles
